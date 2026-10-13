@@ -305,7 +305,7 @@ button:active {
   text-decoration: none;
   border: none;
   margin-top: 20px;
-  margin-left: 65px;
+  margin-left: 70px;
 }
 
 /* Subtítulo */
@@ -315,7 +315,7 @@ button:active {
   font-size: 14px;
   font-weight: 400;
   color: #5c5260;
-  margin-left: 129px;
+  margin-left: 140px;
 }
 
 /* Área principal do catálogo */
@@ -408,7 +408,7 @@ button:active {
 .navegacao-secundaria {
   position: fixed;
   top: 50%;
-  left: 15px;
+  left: 37px;
   transform: translateY(-50%);
   z-index: 10;
   display: flex;
@@ -464,6 +464,8 @@ button:active {
 
 .vinicius-voltar-topo:hover {
   transform: translateY(-3px);
+  background-color: var(--third-color);
+  color: #ffffff;
 }
 
 /* Botão flutuante do WhatsApp */
